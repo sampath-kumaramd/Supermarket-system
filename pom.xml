@@ -18,6 +18,8 @@
     <module>api-gateway</module>
     <module>notification-service</module>
     <module>delivery</module>
+      <module>AuthService</module>
+      <module>UserService</module>
 
 
   </modules>
